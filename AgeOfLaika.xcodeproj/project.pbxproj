@@ -21,6 +21,7 @@
 		10C6A80A1933E773005CE1C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10C6A7EC1933E773005CE1C7 /* UIKit.framework */; };
 		10C6A8121933E773005CE1C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 10C6A8101933E773005CE1C7 /* InfoPlist.strings */; };
 		10C6A8141933E773005CE1C7 /* AgeOfLaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10C6A8131933E773005CE1C7 /* AgeOfLaikaTests.m */; };
+		10C6A81E1933E7AB005CE1C7 /* laika-space-dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10C6A81D1933E7AB005CE1C7 /* laika-space-dog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		10C6A80F1933E773005CE1C7 /* AgeOfLaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AgeOfLaikaTests-Info.plist"; sourceTree = "<group>"; };
 		10C6A8111933E773005CE1C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		10C6A8131933E773005CE1C7 /* AgeOfLaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AgeOfLaikaTests.m; sourceTree = "<group>"; };
+		10C6A81D1933E7AB005CE1C7 /* laika-space-dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "laika-space-dog.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		10C6A7EF1933E773005CE1C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				10C6A81D1933E7AB005CE1C7 /* laika-space-dog.jpg */,
 				10C6A7F01933E773005CE1C7 /* AgeOfLaika-Info.plist */,
 				10C6A7F11933E773005CE1C7 /* InfoPlist.strings */,
 				10C6A7F41933E773005CE1C7 /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10C6A81E1933E7AB005CE1C7 /* laika-space-dog.jpg in Resources */,
 				10C6A8011933E773005CE1C7 /* Images.xcassets in Resources */,
 				10C6A7F31933E773005CE1C7 /* InfoPlist.strings in Resources */,
 				10C6A7FC1933E773005CE1C7 /* Main.storyboard in Resources */,
